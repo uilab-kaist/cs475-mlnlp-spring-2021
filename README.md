@@ -51,5 +51,6 @@ TBA.
 ## Evaluation
 Your grade will be a combination of the following:
 
-- 50% Participation and attendance
-- 50% Project
+- 10% Participation and attendance
+- 30% Homework
+- 60% Project
