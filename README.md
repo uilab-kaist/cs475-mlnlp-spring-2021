@@ -1,5 +1,4 @@
-# cs475-mlnlp-spring-2021
-CS475 ML for NLP Spring 2021 KAIST
+# ML for NLP / CS475 / Spring 2021 KAIST
 
 **All contents in this document are tentative.**
 
