@@ -13,11 +13,12 @@
 ## Course Description
 
 This course will cover advanced and state-of-the-art machine learning for text data. ML methods covered will include graphical models, Bayesian inference, nonparametric models, and deep learning. By the end of the course, students will be able to
-1) Understand important concepts in NLP
-2) Read current research papers in NLP
-3) Implement some of the basic ML models for NLP
-4) Conduct replication studies based on a recent NLP+ML paper
-5) Communicate in written and spoken English about NLP+ML research
+
+- Understand important concepts in NLP
+- Read current research papers in NLP
+- Implement some of the basic ML models for NLP
+- Conduct replication studies based on a recent NLP+ML paper
+- Communicate in written and spoken English about NLP+ML research
 
 ## Prerequisites  
 
