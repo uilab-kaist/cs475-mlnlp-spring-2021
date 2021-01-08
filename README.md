@@ -29,7 +29,7 @@ This course will cover advanced and state-of-the-art machine learning for text d
 
 ## Materials
 
-- Papers from JMLR, ICML, NIPS, IJCAI, AAAI, ICLR, ACL, EMNLP, ArXiv, etc.
+- Papers from JMLR, ICML, NeurPS, IJCAI, AAAI, ICLR, ACL, EMNLP, ArXiv, etc.
 - [Jacob Eisenstein, Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 ## Schedule (Subject to Change)
