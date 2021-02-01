@@ -4,11 +4,16 @@
 
 ## Teaching Staff
 
-- Alice Oh, alice.oh@kaist.edu
-- Jiseon Kim, jiseon_kim@kaist.ac.kr 
-- Dongkwan Kim, dongkwan.kim@kaist.ac.kr
+Alice Oh (Professor), Jiseon Kim (TA), Dongkwan Kim (TA)
 
-**When you send emails, please email to all TAs and prof. Oh. and put "CS475" to the title. (e.g., [CS475] Do we have a class on thanksgiving day?)**
+<details>
+<summary><strong>When you send emails, please email to all TAs and prof. Oh. [Click me to see our emails.]</strong></summary>
+
+<p><code>alice.oh@kaist.edu, jiseon_kim@kaist.ac.kr, dongkwan.kim@kaist.ac.kr</code></p>
+
+<p><i>And put "CS475" to the title. (e.g., [CS475] Do we have a class on thanksgiving day?)</i></p>
+
+</details>
 
 ## Course Description
 
