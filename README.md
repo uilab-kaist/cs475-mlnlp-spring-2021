@@ -39,23 +39,44 @@ This course will cover advanced and state-of-the-art machine learning for text d
 
 ## Schedule (Subject to Change)
 
-Lecture Schedule	Topics include (not in this order)
-1. Word Vectors & Distributed Semantics
-2. Text Classification
-3. Language Models N-grams
-4. Sequence Models RNN
-5. Machine Translation
-6. Korean NLP
-7. Neural Language Models
-8. NLP Applications (QA, Dialogue, Information Extraction, etc)
+All the deadlines are 23:59 unless specified.
+
+| Date                   | Contents                                   | Important Deadlines                                 | Homework             |
+|------------------------|--------------------------------------------|-----------------------------------------------------|----------------------|
+| 2021.03.03             | Introduction                               |                                                     |                      |
+| 2021.03.08, 2021.03.10 | N-gram Language Models                     | Team Building (2021.03.12)                          | HW1 out (2021.03.08) |
+| 2021.03.15, 2021.03.17 | Word Vectors & Distributed Semantic        |                                                     | HW1 end (2021.03.21) |
+| 2021.03.22, 2021.03.24 | Neural Network Basics                      |                                                     |                      |
+| 2021.03.29, 2021.03.31 | Recurrent Neural Networks                  |                                                     | HW2 out (2021.03.29) |
+| 2021.04.07             | Transformers                               |                                                     | HW2 end (2021.04.11) |
+| 2021.04.12, 2021.04.14 | Project Proposal                           | Slide Submission (the day before your presentation) |                      |
+| 2021.04.19, 2021.04.21 | Midterm                                    |                                                     |                      |
+| 2021.04.26, 2021.04.28 | Neural Languague Models (ELMo, BERT, etc.) |                                                     | HW3 out (2021.04.26) |
+| 2021.05.03             | Korean NLP and Multilguality               |                                                     | HW3 out (2021.05.09) |
+| 2021.05.10, 2021.05.12 | NLP Applications (QA, Dialogue, MT, etc)   |                                                     |                      |
+| 2021.05.17             | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
+| 2021.05.24, 2021.05.26 | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
+| 2021.05.31, 2021.06.02 | No class                                   |                                                     |                      |
+| 2021.06.07, 2021.06.09 | Final Project Presentation (2h/day)        | Slide Submission (the day before your presentation) |                      |
+| 2021.06.14, 2021.06.16 | finalterm                                  | Final Report (2021.06.14)                           |                      |
+
+## Homeworks (Subject to Change)
+1. BOW
+1. RNN Family
+1. BERT
 
 ## Team Projects
 
-TBA.
+You will form teams of *three or four*, and as a team, pick one NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR, published in 2018 to 2021, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
 
 ## Evaluation
 Your grade will be a combination of the following:
 
-- 10% Participation and attendance
-- 30% Homework
-- 60% Project
+- Homework 40%
+- Team Project 50% 
+  - Proposal 5%
+  - Paper presentation 10%
+  - Final presentation 20%
+  - Written report 10%
+  - Teamwork 5% (Note that any team may get up to -25% if there is a serious problem with teamwork)
+- Peer Review Participation 10%
