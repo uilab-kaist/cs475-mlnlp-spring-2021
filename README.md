@@ -50,15 +50,15 @@ All the deadlines are 23:59 unless specified.
 | 2021.03.29, 2021.03.31 | Recurrent Neural Networks                  |                                                     | HW2 out (2021.03.29) |
 | 2021.04.07             | Transformers                               |                                                     | HW2 end (2021.04.11) |
 | 2021.04.12, 2021.04.14 | Project Proposal                           | Slide Submission (the day before your presentation) |                      |
-| 2021.04.19, 2021.04.21 | Midterm                                    |                                                     |                      |
+| 2021.04.19, 2021.04.21 | No Class (Midterm)                         |                                                     |                      |
 | 2021.04.26, 2021.04.28 | Neural Languague Models (ELMo, BERT, etc.) |                                                     | HW3 out (2021.04.26) |
 | 2021.05.03             | Korean NLP and Multilguality               |                                                     | HW3 out (2021.05.09) |
 | 2021.05.10, 2021.05.12 | NLP Applications (QA, Dialogue, MT, etc)   |                                                     |                      |
 | 2021.05.17             | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
 | 2021.05.24, 2021.05.26 | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
-| 2021.05.31, 2021.06.02 | No class                                   |                                                     |                      |
+| 2021.05.31, 2021.06.02 | No Class                                   |                                                     |                      |
 | 2021.06.07, 2021.06.09 | Final Project Presentation (2h/day)        | Slide Submission (the day before your presentation) |                      |
-| 2021.06.14, 2021.06.16 | finalterm                                  | Final Report (2021.06.14)                           |                      |
+| 2021.06.14, 2021.06.16 | No Class (Finalterm)                       | Final Report (2021.06.14)                           |                      |
 
 ## Homeworks (Subject to Change)
 1. BOW
