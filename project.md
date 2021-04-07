@@ -35,7 +35,7 @@ This is a team-based project. Please form teams of 4 people per group, 3 allowed
 - **Replication presentation**: 7-10 minute presentation
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
-- **Peer grading**: <s>5</s> 4 peer gradings for proposal, replication, final presentation, <s>slides,</s> and final report
+- **Peer grading**: peer gradings for proposal, replication presentation, final presentation, and final report
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Instruction
