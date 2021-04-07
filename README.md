@@ -70,7 +70,8 @@ All the deadlines are 23:59 unless specified.
 
 ## Team Projects
 
-You will form teams of *three or four*, and as a team, pick one NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR, published in 2018 to 2021, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
+- You will form teams of *three or four*, and as a team, pick one NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR, published in 2018 to 2021, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
+- https://uilab-kaist.github.io/cs475-mlnlp-spring-2021/project
 
 ## Evaluation
 Your grade will be a combination of the following:
