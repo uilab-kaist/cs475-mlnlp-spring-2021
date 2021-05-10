@@ -56,10 +56,10 @@ All the deadlines are 23:59 unless specified.
 | 2021.04.19, 2021.04.21 | No Class (Midterm)                         |                                                     |                      |
 | 2021.04.26, 2021.04.28 | Neural Languague Models (ELMo, BERT, etc.) |                                                     | HW3 out (2021.04.26) |
 | 2021.05.03             | No Class                                   |                                                     | HW3 end (2021.05.09) |
-| 2021.05.10, 2021.05.12 | NLP App. (QA, MT, etc) / Ethics in NLP     |                                                     |                      |
+| 2021.05.10, 2021.05.12 | AI for Social Good / Ethics in NLP         |                                                     |                      |
 | 2021.05.17             | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
 | 2021.05.24, 2021.05.26 | Paper Presentation                         | Slide Submission (the day before your presentation) |                      |
-| 2021.05.31, 2021.06.02 | Korean NLP and Multilguality / No Class    |                                                     |                      |
+| 2021.05.31, 2021.06.02 | QA & MT / Korean NLP and Multilinguality   |                                                     |                      |
 | 2021.06.07, 2021.06.09 | Final Project Presentation (2h/day)        | Slide Submission (the day before your presentation) |                      |
 | 2021.06.14, 2021.06.16 | No Class (Finalterm)                       | Final Report (2021.06.14)                           |                      |
 
